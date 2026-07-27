@@ -1,0 +1,835 @@
+query,task_type
+Summarize the key points from the onboarding guide,summarization
+SQL to update the email of sessions where id = 5,sql_generation
+Write SQL to count rows in the campaigns table grouped by total,sql_generation
+Draft an email to the support team about the pricing change,email_drafting
+When did World War II end?,short_qa
+Label the sentiment of this policy document,classification
+Label the sentiment of this contract clause,classification
+Give me a short summary of the email thread,summarization
+Give me a short summary of the quarterly report,summarization
+Give me the SQL to find users where created_at is null,sql_generation
+Should we proceed with the latency spike? Explain your reasoning,reasoning
+Draft a short message thanking the project manager,email_drafting
+SQL to update the score of employees where id = 5,sql_generation
+Label the sentiment of this research article,classification
+Write a Java function to reverse a string,code_generation
+Give me the SQL to find campaigns where created_at is null,sql_generation
+Extract the order number and status from the email thread,data_extraction
+Deduce the most likely reason for the shipping delay,reasoning
+"What is the chemical symbol for gold, briefly?",short_qa
+Define the latency spike in one line,short_qa
+Explain this C# stack trace and how to fix it,code_generation
+Categorize the following release notes,classification
+Shorten this security advisory for an executive audience,summarization
+Draft a short message thanking the account owner,email_drafting
+Give me the SQL to find products where score is null,sql_generation
+Give me the SQL to find orders where country is null,sql_generation
+Tag this meeting notes with the correct department,classification
+Compose a polite reply to the account owner regarding the checkout errors,email_drafting
+Triage this quarterly report into the right queue,classification
+Why did the mobile app crash happen and what should we do,reasoning
+Draft an email to the support team about our refund policy,email_drafting
+"Who painted the Mona Lisa, briefly?",short_qa
+Summarize the key points from the bug report,summarization
+Extract the order number and status from the meeting notes,data_extraction
+Walk me through step by step how to resolve the shipping delay,reasoning
+Compose a polite reply to the support team regarding the cache invalidation,email_drafting
+Analyze the root cause of the mobile app crash,reasoning
+Summarize this meeting notes in 3 bullet points,summarization
+Write a follow up email to a colleague,email_drafting
+Write a query to get the top 10 tickets by amount,sql_generation
+Pull out the dates and amounts from the customer complaint,data_extraction
+Summarize the key points from the user feedback,summarization
+Summarize the key points from the call transcript,summarization
+Categorize the following security advisory,classification
+"What does HTTP stand for, briefly?",short_qa
+Write SQL to count rows in the tickets table grouped by amount,sql_generation
+Define the email bounce rate in one line,short_qa
+Write an email apologizing for the email bounce rate,email_drafting
+Generate a SQL query to get all region from subscriptions,sql_generation
+List all the action items from the user feedback,data_extraction
+"Who is the CEO of our company, briefly?",short_qa
+Should we proceed with the login outage? Explain your reasoning,reasoning
+Give me the SQL to find orders where tier is null,sql_generation
+Give me the SQL to find employees where country is null,sql_generation
+Give me a short summary of the performance review,summarization
+Shorten this release notes for an executive audience,summarization
+Compare the pros and cons of the API rate limits,reasoning
+Draft an email to the finance team about the subscription renewal,email_drafting
+Label the sentiment of this onboarding guide,classification
+Triage this chat transcript into the right queue,classification
+Generate a SQL query to get all country from transactions,sql_generation
+Write a query to get the top 10 users by category,sql_generation
+Is this meeting notes a complaint or a question,classification
+Write a follow up email to the project manager,email_drafting
+Give me the SQL to find tickets where score is null,sql_generation
+Condense the following release notes into two sentences,summarization
+"What is the boiling point of water, briefly?",short_qa
+SQL to update the channel of tickets where id = 5,sql_generation
+Quick question: What is the capital of France?,short_qa
+Give me the SQL to find shipments where updated_at is null,sql_generation
+Refactor this Go function to be more readable,code_generation
+Explain this Python stack trace and how to fix it,code_generation
+Tag this policy document with the correct department,classification
+Quick question: Who discovered gravity?,short_qa
+Draft an email to a new client about the onboarding flow,email_drafting
+Find all the entities mentioned in this sprint retrospective,data_extraction
+Compare the pros and cons of the checkout errors,reasoning
+List all the action items from the email thread,data_extraction
+Give me a short summary of the policy document,summarization
+Is this policy document a complaint or a question,classification
+Label the sentiment of this email thread,classification
+Create a SQL query joining shipments and products on id,sql_generation
+Condense the following research article into two sentences,summarization
+Can you tell me how many planets are in the solar system?,short_qa
+Tag this incident report with the correct department,classification
+Tag this release notes with the correct department,classification
+Write a query to get the top 10 orders by category,sql_generation
+Create a SQL query joining payments and payments on id,sql_generation
+Parse the email thread and return structured fields,data_extraction
+Draft an email to a colleague about the shipping delay,email_drafting
+Extract all email addresses from this research article,data_extraction
+Generate a SQL query to get all channel from orders,sql_generation
+Should we proceed with the subscription renewal? Explain your reasoning,reasoning
+Compose a polite reply to the project manager regarding the checkout errors,email_drafting
+Write an email apologizing for the onboarding flow,email_drafting
+Analyze the root cause of our refund policy,reasoning
+Create a SQL query joining campaigns and subscriptions on id,sql_generation
+Debug this TypeScript code that throws a null reference error,code_generation
+Write C# code to read a CSV file,code_generation
+Write SQL to count rows in the subscriptions table grouped by region,sql_generation
+Triage this email thread into the right queue,classification
+Compose a polite reply to the customer regarding the payment gateway,email_drafting
+SQL to update the created_at of users where id = 5,sql_generation
+Draft a short message thanking the vendor,email_drafting
+Label the sentiment of this call transcript,classification
+Extract the order number and status from the Slack conversation,data_extraction
+Compare the pros and cons of the email bounce rate,reasoning
+Write SQL to count rows in the products table grouped by priority,sql_generation
+Give me a short summary of the sprint retrospective,summarization
+Condense the following onboarding guide into two sentences,summarization
+Condense the following customer complaint into two sentences,summarization
+Generate a SQL query to get all updated_at from payments,sql_generation
+Who is the author of 1984?,short_qa
+TL;DR of the inventory mismatch,summarization
+Can you tell me what is the currency of Japan?,short_qa
+Write SQL to count rows in the payments table grouped by plan,sql_generation
+Summarize this bug report in 3 bullet points,summarization
+Generate a SQL query to get all total from orders,sql_generation
+Who discovered gravity?,short_qa
+Compose a polite reply to the account owner regarding the cache invalidation,email_drafting
+Extract the order number and status from the contract clause,data_extraction
+Compare the pros and cons of the onboarding flow,reasoning
+Find all the entities mentioned in this email thread,data_extraction
+Why did the API rate limits happen and what should we do,reasoning
+Walk me through step by step how to resolve the new billing system,reasoning
+What category does this user feedback belong to,classification
+Pull out the dates and amounts from the sprint retrospective,data_extraction
+Extract the order number and status from the performance review,data_extraction
+Can you tell me what is the tallest mountain in the world?,short_qa
+What category does this Slack conversation belong to,classification
+Triage this customer complaint into the right queue,classification
+Create a SQL query joining tickets and campaigns on id,sql_generation
+Help me draft a reminder email to the vendor,email_drafting
+Deduce the most likely reason for the onboarding flow,reasoning
+Can you tell me what is the speed of light?,short_qa
+Categorize the following call transcript,classification
+Summarize this design document in 3 bullet points,summarization
+Triage this research article into the right queue,classification
+Help me draft a reminder email to the support team,email_drafting
+Why does my SQL program raise an index out of range exception,code_generation
+Condense the following bug report into two sentences,summarization
+SQL to update the country of tickets where id = 5,sql_generation
+SQL to update the priority of employees where id = 5,sql_generation
+Implement a Go function to sort a list of numbers,code_generation
+Triage this design document into the right queue,classification
+Give me a short summary of the support ticket,summarization
+Parse the news article and return structured fields,data_extraction
+Categorize the following Slack conversation,classification
+Condense the following contract clause into two sentences,summarization
+Debug this Java code that throws a null reference error,code_generation
+What is the boiling point of water?,short_qa
+Extract all email addresses from this support ticket,data_extraction
+Should we proceed with the inventory mismatch? Explain your reasoning,reasoning
+Shorten this customer complaint for an executive audience,summarization
+Generate a SQL query to get all tier from campaigns,sql_generation
+Summarize the key points from the sprint retrospective,summarization
+Tag this vendor proposal with the correct department,classification
+Classify this policy document as urgent or normal,classification
+Extract the order number and status from the policy document,data_extraction
+Write an email apologizing for the login outage,email_drafting
+Write a query to get the top 10 payments by updated_at,sql_generation
+Create a SQL query joining shipments and shipments on id,sql_generation
+Shorten this product review for an executive audience,summarization
+Can you tell me who wrote Hamlet?,short_qa
+Quick question: What is the smallest prime number?,short_qa
+Create a SQL query joining refunds and transactions on id,sql_generation
+Shorten this performance review for an executive audience,summarization
+Write a query to get the top 10 shipments by currency,sql_generation
+List all the action items from the customer complaint,data_extraction
+SQL to update the priority of invoices where id = 5,sql_generation
+Parse the FAQ page and return structured fields,data_extraction
+Give me a short summary of the customer complaint,summarization
+Write a follow up email to the support team,email_drafting
+Give me the SQL to find logins where region is null,sql_generation
+Is this release notes a complaint or a question,classification
+Extract the order number and status from the bug report,data_extraction
+Provide a brief recap of the email bounce rate,summarization
+What does API stand for?,short_qa
+Implement a Ruby function to sort a list of numbers,code_generation
+Provide a brief recap of the pricing change,summarization
+What category does this vendor proposal belong to,classification
+Write Ruby code to read a CSV file,code_generation
+Categorize the following incident report,classification
+What is the chemical symbol for gold?,short_qa
+Compose a polite reply to the on-call engineer regarding the cache invalidation,email_drafting
+Should we proceed with the data migration? Explain your reasoning,reasoning
+Help me draft a reminder email to the customer,email_drafting
+Classify this FAQ page as urgent or normal,classification
+Draft an email to the project manager about the payment gateway,email_drafting
+Implement a TypeScript function to sort a list of numbers,code_generation
+Can you tell me what year was the company founded?,short_qa
+List all the action items from the design document,data_extraction
+Summarize this FAQ page in 3 bullet points,summarization
+Write a Go function to reverse a string,code_generation
+Draft a short message thanking the candidate,email_drafting
+Walk me through step by step how to resolve the latency spike,reasoning
+Define the shipping delay in one line,short_qa
+Categorize the following quarterly report,classification
+Deduce the most likely reason for the data migration,reasoning
+Why did the payment gateway happen and what should we do,reasoning
+Refactor this Python function to be more readable,code_generation
+Quick question: How many planets are in the solar system?,short_qa
+Write a query to get the top 10 payments by priority,sql_generation
+Triage this product review into the right queue,classification
+Write a TypeScript function to reverse a string,code_generation
+Who wrote Hamlet?,short_qa
+Write a C# function to reverse a string,code_generation
+Quick question: What is the boiling point of water?,short_qa
+Quick question: What language is spoken in Brazil?,short_qa
+Analyze the root cause of the latency spike,reasoning
+Compose a polite reply to a colleague regarding the checkout errors,email_drafting
+Parse the policy document and return structured fields,data_extraction
+Write a query to get the top 10 payments by status,sql_generation
+TL;DR of the password reset flow,summarization
+Shorten this support ticket for an executive audience,summarization
+Triage this news article into the right queue,classification
+Why does my Go program raise an index out of range exception,code_generation
+What category does this FAQ page belong to,classification
+Draft an email to the account owner about the data migration,email_drafting
+Give me a short summary of the FAQ page,summarization
+SQL to update the country of users where id = 5,sql_generation
+Give me a short summary of the design document,summarization
+SQL to update the priority of transactions where id = 5,sql_generation
+Compose a polite reply to the vendor regarding the cache invalidation,email_drafting
+TL;DR of the API rate limits,summarization
+Walk me through step by step how to resolve the API rate limits,reasoning
+SQL to update the score of refunds where id = 5,sql_generation
+Give me the SQL to find refunds where country is null,sql_generation
+Parse the call transcript and return structured fields,data_extraction
+Write an email apologizing for the shipping delay,email_drafting
+Classify this release notes as urgent or normal,classification
+Pull out the dates and amounts from the call transcript,data_extraction
+Label the sentiment of this performance review,classification
+Write a query to get the top 10 orders by updated_at,sql_generation
+Give me a short summary of the onboarding guide,summarization
+Categorize the following research article,classification
+Find all the entities mentioned in this chat transcript,data_extraction
+Summarize the key points from the Slack conversation,summarization
+Compose a polite reply to a colleague regarding the inventory mismatch,email_drafting
+Compare the pros and cons of the failed deployment,reasoning
+Write SQL to count rows in the invoices table grouped by plan,sql_generation
+Is this support ticket a complaint or a question,classification
+Create a SQL query joining products and tickets on id,sql_generation
+Create a SQL query joining campaigns and products on id,sql_generation
+Draft an email to the support team about the inventory mismatch,email_drafting
+Why did the email bounce rate happen and what should we do,reasoning
+Write an email apologizing for the checkout errors,email_drafting
+Quick question: Who painted the Mona Lisa?,short_qa
+Create a SQL query joining tickets and payments on id,sql_generation
+List all the action items from the research article,data_extraction
+Summarize this incident report in 3 bullet points,summarization
+Compare the pros and cons of the mobile app crash,reasoning
+Why did the cache invalidation happen and what should we do,reasoning
+Generate a SQL query to get all region from customers,sql_generation
+Draft an email to the customer about the new billing system,email_drafting
+"What is the speed of light, briefly?",short_qa
+Should we proceed with the shipping delay? Explain your reasoning,reasoning
+Create a SQL query joining payments and shipments on id,sql_generation
+Label the sentiment of this user feedback,classification
+Generate a SQL query to get all region from invoices,sql_generation
+Debug this JavaScript code that throws a null reference error,code_generation
+Give me the SQL to find logins where category is null,sql_generation
+Give me a short summary of the bug report,summarization
+Refactor this Java function to be more readable,code_generation
+Provide a brief recap of the onboarding flow,summarization
+Extract the order number and status from the product review,data_extraction
+SQL to update the score of shipments where id = 5,sql_generation
+Write a query to get the top 10 refunds by currency,sql_generation
+Should we proceed with the checkout errors? Explain your reasoning,reasoning
+Debug this Go code that throws a null reference error,code_generation
+Parse the quarterly report and return structured fields,data_extraction
+Write a follow up email to the candidate,email_drafting
+Compose a polite reply to a new client regarding the cache invalidation,email_drafting
+Give me the SQL to find tickets where region is null,sql_generation
+Write SQL to count rows in the sessions table grouped by country,sql_generation
+SQL to update the category of payments where id = 5,sql_generation
+Write SQL to count rows in the users table grouped by country,sql_generation
+Extract all email addresses from this FAQ page,data_extraction
+Deduce the most likely reason for the new billing system,reasoning
+SQL to update the amount of customers where id = 5,sql_generation
+Analyze the root cause of the API rate limits,reasoning
+Parse the security advisory and return structured fields,data_extraction
+Can you tell me what does HTTP stand for?,short_qa
+List all the action items from the meeting notes,data_extraction
+Compose a polite reply to the account owner regarding the API rate limits,email_drafting
+"Who is the author of 1984, briefly?",short_qa
+Triage this meeting notes into the right queue,classification
+Extract all email addresses from this release notes,data_extraction
+Create a SQL query joining employees and products on id,sql_generation
+Write SQL to count rows in the campaigns table grouped by amount,sql_generation
+Debug this Python code that throws a null reference error,code_generation
+Deduce the most likely reason for the latency spike,reasoning
+How many days are in a leap year?,short_qa
+Help me draft a reminder email to a new client,email_drafting
+Create a SQL query joining sessions and campaigns on id,sql_generation
+Should we proceed with the password reset flow? Explain your reasoning,reasoning
+Write Python code to read a CSV file,code_generation
+Should we proceed with our refund policy? Explain your reasoning,reasoning
+Pull out the dates and amounts from the contract clause,data_extraction
+Provide a brief recap of the login outage,summarization
+Why did the checkout errors happen and what should we do,reasoning
+SQL to update the category of logins where id = 5,sql_generation
+Provide a brief recap of the inventory mismatch,summarization
+What category does this product review belong to,classification
+Write Java code to read a CSV file,code_generation
+"What is the largest ocean on earth, briefly?",short_qa
+Refactor this C# function to be more readable,code_generation
+Give me a short summary of the Slack conversation,summarization
+Who is the CEO of our company?,short_qa
+Draft an email to the support team about the onboarding flow,email_drafting
+Triage this onboarding guide into the right queue,classification
+Pull out the dates and amounts from the quarterly report,data_extraction
+Compare the pros and cons of the new billing system,reasoning
+Analyze the root cause of the checkout errors,reasoning
+Implement a Python function to sort a list of numbers,code_generation
+Extract all email addresses from this policy document,data_extraction
+Parse the release notes and return structured fields,data_extraction
+Pull out the dates and amounts from the design document,data_extraction
+Give me the SQL to find logins where amount is null,sql_generation
+Find all the entities mentioned in this contract clause,data_extraction
+What category does this support ticket belong to,classification
+Help me draft a reminder email to the project manager,email_drafting
+Categorize the following onboarding guide,classification
+Draft an email to a colleague about the new billing system,email_drafting
+Write a SQL function to reverse a string,code_generation
+Label the sentiment of this support ticket,classification
+Draft an email to the customer about the checkout errors,email_drafting
+Help me draft a reminder email to a colleague,email_drafting
+Write a follow up email to the customer,email_drafting
+Write SQL to count rows in the employees table grouped by channel,sql_generation
+Categorize the following email thread,classification
+Deduce the most likely reason for the password reset flow,reasoning
+Tag this performance review with the correct department,classification
+Summarize the key points from the FAQ page,summarization
+Provide a brief recap of the new billing system,summarization
+Give me the SQL to find users where updated_at is null,sql_generation
+Write SQL to count rows in the refunds table grouped by total,sql_generation
+Draft an email to the customer about the login outage,email_drafting
+Is this Slack conversation a complaint or a question,classification
+Condense the following sprint retrospective into two sentences,summarization
+Draft an email to the project manager about the latency spike,email_drafting
+Write a Ruby function to reverse a string,code_generation
+Pull out the dates and amounts from the FAQ page,data_extraction
+Write a query to get the top 10 payments by created_at,sql_generation
+Write a query to get the top 10 sessions by currency,sql_generation
+Why does my Ruby program raise an index out of range exception,code_generation
+Analyze the root cause of the new billing system,reasoning
+Walk me through step by step how to resolve the payment gateway,reasoning
+Walk me through step by step how to resolve the password reset flow,reasoning
+Draft an email to the on-call engineer about the password reset flow,email_drafting
+Condense the following quarterly report into two sentences,summarization
+Extract all email addresses from this quarterly report,data_extraction
+Write SQL to count rows in the sessions table grouped by score,sql_generation
+Find all the entities mentioned in this customer complaint,data_extraction
+Deduce the most likely reason for the subscription renewal,reasoning
+What category does this contract clause belong to,classification
+Explain this Go stack trace and how to fix it,code_generation
+Is this user feedback a complaint or a question,classification
+Give me the SQL to find employees where status is null,sql_generation
+Compose a polite reply to a new client regarding the pricing change,email_drafting
+List all the action items from the Slack conversation,data_extraction
+Classify this vendor proposal as urgent or normal,classification
+Summarize this quarterly report in 3 bullet points,summarization
+Write an email apologizing for our refund policy,email_drafting
+Help me draft a reminder email to the candidate,email_drafting
+Provide a brief recap of the failed deployment,summarization
+Triage this security advisory into the right queue,classification
+Quick question: When was the internet invented?,short_qa
+Give me the SQL to find subscriptions where channel is null,sql_generation
+SQL to update the channel of invoices where id = 5,sql_generation
+Generate a SQL query to get all currency from invoices,sql_generation
+Deduce the most likely reason for the failed deployment,reasoning
+Extract the order number and status from the vendor proposal,data_extraction
+Write SQL to count rows in the products table grouped by plan,sql_generation
+Condense the following product review into two sentences,summarization
+Generate a SQL query to get all updated_at from invoices,sql_generation
+Write SQL to count rows in the shipments table grouped by status,sql_generation
+SQL to update the priority of shipments where id = 5,sql_generation
+Write Go code to read a CSV file,code_generation
+Draft an email to the vendor about the inventory mismatch,email_drafting
+Give me a short summary of the research article,summarization
+Classify this security advisory as urgent or normal,classification
+Give me the SQL to find invoices where status is null,sql_generation
+Analyze the root cause of the shipping delay,reasoning
+Compose a polite reply to a colleague regarding the shipping delay,email_drafting
+Compose a polite reply to a colleague regarding the login outage,email_drafting
+Create a SQL query joining employees and payments on id,sql_generation
+Extract all email addresses from this vendor proposal,data_extraction
+Find all the entities mentioned in this onboarding guide,data_extraction
+Generate a SQL query to get all updated_at from employees,sql_generation
+Write a follow up email to the on-call engineer,email_drafting
+Provide a brief recap of the API rate limits,summarization
+Pull out the dates and amounts from the performance review,data_extraction
+TL;DR of the failed deployment,summarization
+Why did the login outage happen and what should we do,reasoning
+Categorize the following design document,classification
+Generate a SQL query to get all amount from users,sql_generation
+Can you tell me what is the chemical symbol for gold?,short_qa
+Write a query to get the top 10 users by created_at,sql_generation
+Summarize this contract clause in 3 bullet points,summarization
+Write SQL to count rows in the payments table grouped by score,sql_generation
+Define the failed deployment in one line,short_qa
+Write a Python function to reverse a string,code_generation
+Create a SQL query joining invoices and users on id,sql_generation
+Give me the SQL to find subscriptions where score is null,sql_generation
+Draft a short message thanking the finance team,email_drafting
+Generate a SQL query to get all total from users,sql_generation
+Classify this incident report as urgent or normal,classification
+Provide a brief recap of the subscription renewal,summarization
+Write a follow up email to the vendor,email_drafting
+Help me draft a reminder email to the finance team,email_drafting
+Generate a SQL query to get all status from orders,sql_generation
+Write SQL to count rows in the customers table grouped by plan,sql_generation
+Condense the following news article into two sentences,summarization
+Create a SQL query joining subscriptions and subscriptions on id,sql_generation
+Compose a polite reply to the customer regarding the data migration,email_drafting
+Parse the performance review and return structured fields,data_extraction
+Write SQL to count rows in the shipments table grouped by updated_at,sql_generation
+Compose a polite reply to the candidate regarding the new billing system,email_drafting
+Analyze the root cause of the payment gateway,reasoning
+Analyze the root cause of the pricing change,reasoning
+Generate a SQL query to get all amount from payments,sql_generation
+Write an email apologizing for the subscription renewal,email_drafting
+Provide a brief recap of the data migration,summarization
+Extract the order number and status from the support ticket,data_extraction
+Draft a short message thanking the customer,email_drafting
+Condense the following chat transcript into two sentences,summarization
+Compose a polite reply to the on-call engineer regarding the email bounce rate,email_drafting
+Explain this SQL stack trace and how to fix it,code_generation
+How many planets are in the solar system?,short_qa
+Classify this email thread as urgent or normal,classification
+Should we proceed with the cache invalidation? Explain your reasoning,reasoning
+Should we proceed with the mobile app crash? Explain your reasoning,reasoning
+Provide a brief recap of the password reset flow,summarization
+TL;DR of the onboarding flow,summarization
+Create a SQL query joining customers and payments on id,sql_generation
+Write an email apologizing for the API rate limits,email_drafting
+Compose a polite reply to the account owner regarding the password reset flow,email_drafting
+Triage this performance review into the right queue,classification
+Give me the SQL to find refunds where updated_at is null,sql_generation
+Create a SQL query joining campaigns and logins on id,sql_generation
+Summarize the key points from the meeting notes,summarization
+Label the sentiment of this news article,classification
+Write a query to get the top 10 products by tier,sql_generation
+What category does this performance review belong to,classification
+Explain this Ruby stack trace and how to fix it,code_generation
+Compose a polite reply to the vendor regarding the API rate limits,email_drafting
+Give me the SQL to find refunds where status is null,sql_generation
+Quick question: How many days are in a leap year?,short_qa
+Why did the failed deployment happen and what should we do,reasoning
+Summarize the key points from the design document,summarization
+Write a query to get the top 10 invoices by score,sql_generation
+Analyze the root cause of the email bounce rate,reasoning
+Pull out the dates and amounts from the onboarding guide,data_extraction
+Summarize the key points from the policy document,summarization
+When was the internet invented?,short_qa
+Summarize the key points from the email thread,summarization
+Parse the meeting notes and return structured fields,data_extraction
+TL;DR of the new billing system,summarization
+What does HTTP stand for?,short_qa
+Provide a brief recap of the shipping delay,summarization
+Draft an email to a colleague about the password reset flow,email_drafting
+Should we proceed with the email bounce rate? Explain your reasoning,reasoning
+Generate a SQL query to get all region from shipments,sql_generation
+Compare the pros and cons of the password reset flow,reasoning
+Find all the entities mentioned in this product review,data_extraction
+Tag this quarterly report with the correct department,classification
+Summarize the key points from the security advisory,summarization
+Walk me through step by step how to resolve the subscription renewal,reasoning
+Generate a SQL query to get all channel from users,sql_generation
+Parse the chat transcript and return structured fields,data_extraction
+Write SQL to count rows in the users table grouped by updated_at,sql_generation
+Implement a Java function to sort a list of numbers,code_generation
+Deduce the most likely reason for the payment gateway,reasoning
+Shorten this news article for an executive audience,summarization
+What category does this design document belong to,classification
+Categorize the following bug report,classification
+Write a query to get the top 10 products by amount,sql_generation
+Tag this FAQ page with the correct department,classification
+SQL to update the score of customers where id = 5,sql_generation
+Parse the bug report and return structured fields,data_extraction
+Find all the entities mentioned in this Slack conversation,data_extraction
+Define the pricing change in one line,short_qa
+Implement a JavaScript function to sort a list of numbers,code_generation
+Write a JavaScript function to reverse a string,code_generation
+Create a SQL query joining customers and shipments on id,sql_generation
+Write an email apologizing for the failed deployment,email_drafting
+Explain this TypeScript stack trace and how to fix it,code_generation
+Give me the SQL to find customers where email is null,sql_generation
+Compose a polite reply to the project manager regarding the onboarding flow,email_drafting
+Extract the order number and status from the design document,data_extraction
+Generate a SQL query to get all email from employees,sql_generation
+Draft a short message thanking a new client,email_drafting
+Condense the following email thread into two sentences,summarization
+SQL to update the updated_at of users where id = 5,sql_generation
+Draft an email to a new client about our refund policy,email_drafting
+Give me the SQL to find refunds where created_at is null,sql_generation
+Extract the order number and status from the customer complaint,data_extraction
+Find all the entities mentioned in this policy document,data_extraction
+Analyze the root cause of the data migration,reasoning
+List all the action items from the release notes,data_extraction
+Find all the entities mentioned in this performance review,data_extraction
+Find all the entities mentioned in this incident report,data_extraction
+What category does this policy document belong to,classification
+Summarize the key points from the product review,summarization
+Why did our refund policy happen and what should we do,reasoning
+Write a follow up email to the account owner,email_drafting
+Compose a polite reply to the project manager regarding the new billing system,email_drafting
+Extract all email addresses from this Slack conversation,data_extraction
+Is this contract clause a complaint or a question,classification
+Write SQL to count rows in the transactions table grouped by country,sql_generation
+Summarize this release notes in 3 bullet points,summarization
+Should we proceed with the payment gateway? Explain your reasoning,reasoning
+SQL to update the tier of employees where id = 5,sql_generation
+Define the cache invalidation in one line,short_qa
+Write SQL to count rows in the products table grouped by created_at,sql_generation
+SQL to update the priority of customers where id = 5,sql_generation
+Can you tell me who is the CEO of our company?,short_qa
+Summarize the key points from the release notes,summarization
+Extract the order number and status from the onboarding guide,data_extraction
+Generate a SQL query to get all score from users,sql_generation
+Should we proceed with the API rate limits? Explain your reasoning,reasoning
+Summarize this email thread in 3 bullet points,summarization
+Classify this call transcript as urgent or normal,classification
+Compose a polite reply to the project manager regarding the inventory mismatch,email_drafting
+Quick question: What is the largest ocean on earth?,short_qa
+Extract all email addresses from this security advisory,data_extraction
+Can you tell me what is the largest ocean on earth?,short_qa
+Why did the shipping delay happen and what should we do,reasoning
+"What is the freezing point of water, briefly?",short_qa
+Label the sentiment of this sprint retrospective,classification
+TL;DR of our refund policy,summarization
+"Who wrote Hamlet, briefly?",short_qa
+Draft a short message thanking the support team,email_drafting
+Draft an email to the on-call engineer about the onboarding flow,email_drafting
+Tag this sprint retrospective with the correct department,classification
+Categorize the following vendor proposal,classification
+List all the action items from the sprint retrospective,data_extraction
+Can you tell me who painted the Mona Lisa?,short_qa
+Define the subscription renewal in one line,short_qa
+Tag this user feedback with the correct department,classification
+Define the login outage in one line,short_qa
+Can you tell me how far is the moon from earth?,short_qa
+Pull out the dates and amounts from the bug report,data_extraction
+Compose a polite reply to the customer regarding the mobile app crash,email_drafting
+Give me the SQL to find payments where category is null,sql_generation
+Draft an email to a new client about the login outage,email_drafting
+Walk me through step by step how to resolve the checkout errors,reasoning
+Tag this chat transcript with the correct department,classification
+Label the sentiment of this bug report,classification
+Summarize this news article in 3 bullet points,summarization
+Is this research article a complaint or a question,classification
+Triage this contract clause into the right queue,classification
+Can you tell me what does API stand for?,short_qa
+Pull out the dates and amounts from the email thread,data_extraction
+Generate a SQL query to get all priority from transactions,sql_generation
+Compose a polite reply to the support team regarding the onboarding flow,email_drafting
+SQL to update the amount of orders where id = 5,sql_generation
+Create a SQL query joining subscriptions and logins on id,sql_generation
+Categorize the following chat transcript,classification
+Compose a polite reply to the vendor regarding the checkout errors,email_drafting
+SQL to update the country of subscriptions where id = 5,sql_generation
+Draft an email to a new client about the API rate limits,email_drafting
+Write a query to get the top 10 employees by region,sql_generation
+Write SQL to count rows in the campaigns table grouped by region,sql_generation
+Why did the onboarding flow happen and what should we do,reasoning
+Extract all email addresses from this call transcript,data_extraction
+TL;DR of the pricing change,summarization
+Find all the entities mentioned in this FAQ page,data_extraction
+What category does this incident report belong to,classification
+Pull out the dates and amounts from the support ticket,data_extraction
+Categorize the following user feedback,classification
+Give me a short summary of the call transcript,summarization
+Write a query to get the top 10 logins by amount,sql_generation
+SQL to update the priority of refunds where id = 5,sql_generation
+Write SQL to count rows in the logins table grouped by currency,sql_generation
+Deduce the most likely reason for the checkout errors,reasoning
+Provide a brief recap of the cache invalidation,summarization
+Create a SQL query joining products and transactions on id,sql_generation
+Deduce the most likely reason for the cache invalidation,reasoning
+Create a SQL query joining payments and orders on id,sql_generation
+Generate a SQL query to get all priority from campaigns,sql_generation
+Write SQL code to read a CSV file,code_generation
+Write a follow up email to the finance team,email_drafting
+Write an email apologizing for the inventory mismatch,email_drafting
+List all the action items from the news article,data_extraction
+Extract all email addresses from this meeting notes,data_extraction
+Pull out the dates and amounts from the security advisory,data_extraction
+List all the action items from the security advisory,data_extraction
+TL;DR of the payment gateway,summarization
+Walk me through step by step how to resolve our refund policy,reasoning
+Draft an email to the project manager about our refund policy,email_drafting
+Triage this vendor proposal into the right queue,classification
+Parse the product review and return structured fields,data_extraction
+Define the inventory mismatch in one line,short_qa
+Refactor this Ruby function to be more readable,code_generation
+Draft an email to the on-call engineer about the inventory mismatch,email_drafting
+Provide a brief recap of the payment gateway,summarization
+Shorten this Slack conversation for an executive audience,summarization
+Create a SQL query joining employees and employees on id,sql_generation
+Is this design document a complaint or a question,classification
+Is this call transcript a complaint or a question,classification
+Compose a polite reply to a colleague regarding the mobile app crash,email_drafting
+TL;DR of the shipping delay,summarization
+Pull out the dates and amounts from the incident report,data_extraction
+Draft a short message thanking the on-call engineer,email_drafting
+Shorten this call transcript for an executive audience,summarization
+Summarize the key points from the performance review,summarization
+Generate a SQL query to get all currency from shipments,sql_generation
+Compose a polite reply to the on-call engineer regarding the pricing change,email_drafting
+Tag this research article with the correct department,classification
+"Who discovered gravity, briefly?",short_qa
+What is the tallest mountain in the world?,short_qa
+Generate a SQL query to get all priority from invoices,sql_generation
+Walk me through step by step how to resolve the onboarding flow,reasoning
+Compose a polite reply to the vendor regarding the inventory mismatch,email_drafting
+Generate a SQL query to get all amount from sessions,sql_generation
+Why does my C# program raise an index out of range exception,code_generation
+List all the action items from the bug report,data_extraction
+What category does this call transcript belong to,classification
+Draft an email to the account owner about the payment gateway,email_drafting
+Extract the order number and status from the user feedback,data_extraction
+Shorten this FAQ page for an executive audience,summarization
+Classify this contract clause as urgent or normal,classification
+Extract all email addresses from this news article,data_extraction
+Debug this C# code that throws a null reference error,code_generation
+Pull out the dates and amounts from the product review,data_extraction
+Walk me through step by step how to resolve the cache invalidation,reasoning
+Quick question: What is the speed of light?,short_qa
+Is this quarterly report a complaint or a question,classification
+Walk me through step by step how to resolve the email bounce rate,reasoning
+Walk me through step by step how to resolve the inventory mismatch,reasoning
+Write an email apologizing for the payment gateway,email_drafting
+"What is the capital of France, briefly?",short_qa
+Give me the SQL to find logins where priority is null,sql_generation
+"What year was the company founded, briefly?",short_qa
+Tag this product review with the correct department,classification
+Implement a C# function to sort a list of numbers,code_generation
+Extract the order number and status from the news article,data_extraction
+Summarize this product review in 3 bullet points,summarization
+Why did the pricing change happen and what should we do,reasoning
+Compare the pros and cons of the shipping delay,reasoning
+TL;DR of the cache invalidation,summarization
+Implement a SQL function to sort a list of numbers,code_generation
+Quick question: How many continents are there?,short_qa
+Write SQL to count rows in the sessions table grouped by updated_at,sql_generation
+Write JavaScript code to read a CSV file,code_generation
+Parse the customer complaint and return structured fields,data_extraction
+Generate a SQL query to get all total from sessions,sql_generation
+Compare the pros and cons of the subscription renewal,reasoning
+Extract the order number and status from the call transcript,data_extraction
+Define the payment gateway in one line,short_qa
+Pull out the dates and amounts from the vendor proposal,data_extraction
+Create a SQL query joining tickets and employees on id,sql_generation
+SQL to update the country of transactions where id = 5,sql_generation
+Condense the following Slack conversation into two sentences,summarization
+List all the action items from the product review,data_extraction
+Pull out the dates and amounts from the news article,data_extraction
+Debug this Ruby code that throws a null reference error,code_generation
+Tag this contract clause with the correct department,classification
+Who painted the Mona Lisa?,short_qa
+Extract all email addresses from this sprint retrospective,data_extraction
+Define the API rate limits in one line,short_qa
+SQL to update the channel of sessions where id = 5,sql_generation
+Write SQL to count rows in the employees table grouped by updated_at,sql_generation
+Generate a SQL query to get all amount from logins,sql_generation
+Condense the following call transcript into two sentences,summarization
+Summarize the key points from the research article,summarization
+Triage this policy document into the right queue,classification
+Write an email apologizing for the latency spike,email_drafting
+Give me a short summary of the news article,summarization
+Create a SQL query joining employees and shipments on id,sql_generation
+Label the sentiment of this meeting notes,classification
+Is this sprint retrospective a complaint or a question,classification
+Can you tell me when was the internet invented?,short_qa
+TL;DR of the data migration,summarization
+Write SQL to count rows in the logins table grouped by plan,sql_generation
+What category does this chat transcript belong to,classification
+Classify this user feedback as urgent or normal,classification
+What is the largest ocean on earth?,short_qa
+Label the sentiment of this incident report,classification
+Extract all email addresses from this design document,data_extraction
+Help me draft a reminder email to the account owner,email_drafting
+Compose a polite reply to the project manager regarding the shipping delay,email_drafting
+Is this security advisory a complaint or a question,classification
+Is this email thread a complaint or a question,classification
+Write an email apologizing for the mobile app crash,email_drafting
+Write a query to get the top 10 campaigns by plan,sql_generation
+Shorten this meeting notes for an executive audience,summarization
+Give me the SQL to find employees where updated_at is null,sql_generation
+List all the action items from the onboarding guide,data_extraction
+Find all the entities mentioned in this bug report,data_extraction
+List all the action items from the FAQ page,data_extraction
+Find all the entities mentioned in this security advisory,data_extraction
+Can you tell me what is the capital of France?,short_qa
+Classify this performance review as urgent or normal,classification
+"What is the tallest mountain in the world, briefly?",short_qa
+Deduce the most likely reason for the login outage,reasoning
+Is this product review a complaint or a question,classification
+SQL to update the plan of transactions where id = 5,sql_generation
+Label the sentiment of this customer complaint,classification
+Should we proceed with the new billing system? Explain your reasoning,reasoning
+Quick question: Who is the author of 1984?,short_qa
+Find all the entities mentioned in this support ticket,data_extraction
+Summarize the key points from the chat transcript,summarization
+Write a query to get the top 10 subscriptions by currency,sql_generation
+"What is the currency of Japan, briefly?",short_qa
+"How many days are in a leap year, briefly?",short_qa
+Write a query to get the top 10 transactions by region,sql_generation
+Why did the latency spike happen and what should we do,reasoning
+Summarize this onboarding guide in 3 bullet points,summarization
+Draft a short message thanking a colleague,email_drafting
+Create a SQL query joining transactions and campaigns on id,sql_generation
+Refactor this JavaScript function to be more readable,code_generation
+Parse the contract clause and return structured fields,data_extraction
+Condense the following performance review into two sentences,summarization
+What is the freezing point of water?,short_qa
+Find all the entities mentioned in this vendor proposal,data_extraction
+Summarize this call transcript in 3 bullet points,summarization
+Write a query to get the top 10 transactions by country,sql_generation
+Refactor this SQL function to be more readable,code_generation
+Walk me through step by step how to resolve the failed deployment,reasoning
+What category does this release notes belong to,classification
+Give me a short summary of the meeting notes,summarization
+Shorten this sprint retrospective for an executive audience,summarization
+Classify this news article as urgent or normal,classification
+What category does this email thread belong to,classification
+Generate a SQL query to get all amount from orders,sql_generation
+Write a query to get the top 10 products by updated_at,sql_generation
+Write SQL to count rows in the refunds table grouped by score,sql_generation
+Explain this JavaScript stack trace and how to fix it,code_generation
+What category does this news article belong to,classification
+List all the action items from the vendor proposal,data_extraction
+Find all the entities mentioned in this design document,data_extraction
+Write a query to get the top 10 invoices by region,sql_generation
+Draft an email to the account owner about the latency spike,email_drafting
+Write a query to get the top 10 products by total,sql_generation
+List all the action items from the incident report,data_extraction
+Classify this sprint retrospective as urgent or normal,classification
+Can you tell me what language is spoken in Brazil?,short_qa
+Parse the onboarding guide and return structured fields,data_extraction
+Write a query to get the top 10 sessions by total,sql_generation
+Why did the password reset flow happen and what should we do,reasoning
+Parse the user feedback and return structured fields,data_extraction
+Categorize the following performance review,classification
+Give me a short summary of the user feedback,summarization
+Debug this SQL code that throws a null reference error,code_generation
+Create a SQL query joining transactions and orders on id,sql_generation
+Compare the pros and cons of the pricing change,reasoning
+What category does this meeting notes belong to,classification
+TL;DR of the subscription renewal,summarization
+"When did World War II end, briefly?",short_qa
+Is this news article a complaint or a question,classification
+Classify this customer complaint as urgent or normal,classification
+Triage this call transcript into the right queue,classification
+Extract the order number and status from the sprint retrospective,data_extraction
+Why does my Python program raise an index out of range exception,code_generation
+Analyze the root cause of the failed deployment,reasoning
+Create a SQL query joining orders and invoices on id,sql_generation
+Analyze the root cause of the inventory mismatch,reasoning
+What category does this quarterly report belong to,classification
+Categorize the following sprint retrospective,classification
+Compare the pros and cons of our refund policy,reasoning
+Walk me through step by step how to resolve the login outage,reasoning
+Create a SQL query joining users and refunds on id,sql_generation
+Shorten this design document for an executive audience,summarization
+Can you tell me what is the boiling point of water?,short_qa
+Draft an email to a new client about the latency spike,email_drafting
+Is this bug report a complaint or a question,classification
+Create a SQL query joining transactions and customers on id,sql_generation
+Generate a SQL query to get all category from customers,sql_generation
+Deduce the most likely reason for the email bounce rate,reasoning
+Generate a SQL query to get all total from invoices,sql_generation
+Write SQL to count rows in the logins table grouped by total,sql_generation
+Give me the SQL to find transactions where region is null,sql_generation
+Tag this call transcript with the correct department,classification
+Quick question: What is the tallest mountain in the world?,short_qa
+Pull out the dates and amounts from the chat transcript,data_extraction
+Label the sentiment of this product review,classification
+Summarize this security advisory in 3 bullet points,summarization
+Should we proceed with the onboarding flow? Explain your reasoning,reasoning
+Classify this design document as urgent or normal,classification
+Write SQL to count rows in the subscriptions table grouped by updated_at,sql_generation
+Label the sentiment of this chat transcript,classification
+SQL to update the total of shipments where id = 5,sql_generation
+SQL to update the amount of tickets where id = 5,sql_generation
+Summarize the key points from the vendor proposal,summarization
+Triage this Slack conversation into the right queue,classification
+Write a query to get the top 10 sessions by created_at,sql_generation
+Create a SQL query joining invoices and refunds on id,sql_generation
+Shorten this bug report for an executive audience,summarization
+Summarize this research article in 3 bullet points,summarization
+Why does my TypeScript program raise an index out of range exception,code_generation
+Write SQL to count rows in the refunds table grouped by updated_at,sql_generation
+Is this chat transcript a complaint or a question,classification
+List all the action items from the performance review,data_extraction
+Write TypeScript code to read a CSV file,code_generation
+Summarize this Slack conversation in 3 bullet points,summarization
+Shorten this onboarding guide for an executive audience,summarization
+Why does my Java program raise an index out of range exception,code_generation
+Define the data migration in one line,short_qa
+Explain this Java stack trace and how to fix it,code_generation
+Give me the SQL to find employees where tier is null,sql_generation
+Write an email apologizing for the data migration,email_drafting
+Summarize this vendor proposal in 3 bullet points,summarization
+Why does my JavaScript program raise an index out of range exception,code_generation
+Condense the following FAQ page into two sentences,summarization
+Write a query to get the top 10 employees by amount,sql_generation
+Write an email apologizing for the password reset flow,email_drafting
+Give me the SQL to find sessions where total is null,sql_generation
+TL;DR of the email bounce rate,summarization
+SQL to update the created_at of subscriptions where id = 5,sql_generation
+Extract all email addresses from this contract clause,data_extraction
+Define the onboarding flow in one line,short_qa
+Tag this news article with the correct department,classification
+Write SQL to count rows in the tickets table grouped by status,sql_generation
+Compose a polite reply to a new client regarding the subscription renewal,email_drafting
+Extract all email addresses from this user feedback,data_extraction
+Why did the inventory mismatch happen and what should we do,reasoning
+Summarize this chat transcript in 3 bullet points,summarization
+Tag this bug report with the correct department,classification
+Can you tell me how many continents are there?,short_qa
+Define the mobile app crash in one line,short_qa
+Write a query to get the top 10 products by region,sql_generation
+Define our refund policy in one line,short_qa
+"How many planets are in the solar system, briefly?",short_qa
+Classify this product review as urgent or normal,classification
+Walk me through step by step how to resolve the mobile app crash,reasoning
+Draft an email to the vendor about the latency spike,email_drafting
+Quick question: What is the freezing point of water?,short_qa
+Parse the vendor proposal and return structured fields,data_extraction
+Refactor this TypeScript function to be more readable,code_generation
+Classify this bug report as urgent or normal,classification
+Generate a SQL query to get all priority from tickets,sql_generation

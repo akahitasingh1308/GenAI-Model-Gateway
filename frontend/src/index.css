@@ -1,0 +1,23 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+}
+
+html,
+body,
+#root{
+  width:100%;
+  height:100%;
+  font-family:Inter,sans-serif;
+}
+
+body{
+  background:#0b1120;
+  color:white;
+}
+
+a{
+  text-decoration:none;
+  color:inherit;
+}

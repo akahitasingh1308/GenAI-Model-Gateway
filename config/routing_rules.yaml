@@ -1,0 +1,32 @@
+classifier:
+  confidence_threshold: 0.80
+
+routing:
+
+  summarization:
+    primary: mock_fast
+
+  classification:
+    primary: mock_fast
+
+  short_qa:
+    primary: mock_fast
+
+  code_generation:
+    primary: mock_premium
+
+  sql_generation:
+    primary: mock_premium
+
+  email_drafting:
+    primary: mock_fast
+
+  data_extraction:
+    primary: mock_fast
+
+  reasoning:
+    primary: mock_premium
+
+fallback:
+  - mock_fast
+  - mock_premium

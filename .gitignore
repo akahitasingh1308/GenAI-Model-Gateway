@@ -179,3 +179,45 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+
+# Project Specific
+# Environment variables
+.env
+.env.*
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Node modules
+frontend/node_modules/
+node_modules/
+
+# Vite
+frontend/.vite/
+frontend/.vite-temp/
+
+# Frontend build
+frontend/dist/
+dist/
+
+# Python cache
+**/__pycache__/
+*.pyc
+
+# Python virtual environments
+venv/
+.venv/
+
+# Local database (if used)
+*.db
+
+# Trained models (optional - keep only if you don't want to upload them)
+# ml/*.joblib
+
+# Generated logs
+logs/
+*.log

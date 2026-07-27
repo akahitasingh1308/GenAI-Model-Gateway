@@ -1,0 +1,14 @@
+models:
+
+  mock_fast:
+    provider: mock
+
+  mock_premium:
+    provider: mock
+
+  mock_failure:
+    provider: mock
+
+  ollama_llama3:
+    provider: ollama
+    model_name: llama3
